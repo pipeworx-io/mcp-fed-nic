@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/fed-nic",
   "title": "Fed Nic",
   "description": "Federal Reserve National Information Center (NIC, ffiec.gov/npw)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/fed-nic",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-fed-nic",
