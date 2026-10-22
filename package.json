@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fed-nic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Federal Reserve National Information Center (NIC, ffiec.gov/npw)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f03f0a328f6c96e56f279d3e64624a69eb332fb5f77ce245350a5fdd13da16f8",
-    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
+    "sourceHash": "v1-712c5d549eccf4a9cc1e67ec3d39fc3ed0d16fbd52335b85151dc5b260f32562",
+    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
   }
 }
