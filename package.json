@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fed-nic",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Federal Reserve National Information Center (NIC, ffiec.gov/npw)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "fed-nic",
     "gatewaySlug": "fed-nic",
-    "sourceHash": "v1-1cb9e02fada5a0c42ad174dbfe5d25b50c034c206725a42ea0ec2252541b03dc",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-e6b7192f8f11506be7d22c39b98fa536ecd24570884ea48f4214050e71139e9e",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
